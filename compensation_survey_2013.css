@@ -1,0 +1,55 @@
+#chartpage { padding:0px 10px !important; }
+/*#chartpage h2 { display:none !important; }*/
+#chartIA .footnote, #chartbody .footnote { font-size:9pt !important; line-height:13pt !important; width:900px !important; }
+
+#compensation_survey-container { width:900px; height:auto; text-align:left; font-family:helvetica, arial; font-size:9pt; color:#333; position:relative; background-color:#f2f3eb; }
+
+#compensation_survey-masthead { margin-bottom:15px; }
+
+#compensation_survey-nav { width:260px; margin-left:15px; border-right:1px dotted #ccc; }
+
+#compensation_survey-content { width:594px; margin:0; padding:0px 15px 15px; }
+#compensation_survey-content-title { font-size:16pt; font-weight:normal; width:435px; color:#333; }
+#compensation_survey-content_image { width:128px; height:128px; }
+
+#compensation_survey-boxes-container { margin-top:15px; padding-top:15px; color:#333; border-top:1px dotted #ccc; }
+
+#compensation_survey-box1 { background-color:#ddddc9; border:1px solid #D3CCA7; }
+#compensation_survey-box2 { background-color:#F1EBC7; border:1px solid #D3CCA7; color:#333; }
+#compensation_survey-box3 { background-color:#ddddc9; border:1px solid #c5c5af; }
+#compensation_survey-box4 { background-color:#F1EBC7; border:1px solid #D3CCA7; margin-top:20px; padding:11px 10px 9px 78px; text-align:center; }
+.compensation_survey-box { width:145px; height:135px; margin-right:63px; padding:0 10px 20px; }
+.compensation_survey-box_title { font-size:10pt; color:#333; font-weight:bold; text-align:center; line-height: 17px;}
+
+#compensation_survey-total_cash { font-size:10pt; font-weight:bold; margin-left:18px; text-align: left!important; float: none!important;}
+#compensation_survey-stock_options-title { margin-top:20px; }
+#compensation_survey-stock_options { font-size:12pt; font-weight:bold; border-top:1px dotted #333; padding-top:5px; margin-top:5px; text-align:center; }
+#compensation_survey-take_home-title { margin-top:36px; }
+#compensation_survey-take_home { font-size:12pt; font-weight:bold; border-top:1px dotted #333; padding-top:5px; margin-top:5px; text-align:center; }
+
+#compensation_survey-plus { position:absolute; top:385px; left:444px; }
+#compensation_survey-equal { position:absolute; top:385px; left:652px; }
+#compensation_survey-line { /*position:absolute; top:441px; left:582px; width:5px; height:20px; border-right:1px solid #D3CCA7;*/ display: none; }
+
+/******************* start table sort *************************/
+.header { background-image: url("/image/cc/compensation_survey/table_arrow.gif"); background-position: right center; background-repeat: no-repeat; cursor: pointer; }
+#compensation_survey-nav table > tbody tr { cursor:pointer; }
+/******************* end table sort *************************/
+
+#compensation_survey-link { padding:0 0 15px 15px; text-decoration:underline; color:#7e8a6a; cursor:pointer; }
+
+.floatL { float:left; }
+.floatR { float:right; }
+.clear { clear:both; }
+
+td.compensation_survey-nav-rank{width:20px!important; padding: 10px 0 5px 10px!important; text-align: left!important; margin:0!important;}
+td.compensation_survey-nav-company{white-space: pre-wrap!important; line-height: 16px; padding: 10px!important; width:100px!important;}
+table.tablescroll_body{width: 250px; margin: 0!important;}
+.tablescroll_wrapper.mCustomScrollbar._mCS_11{width:266px!important;}
+table.tablescroll_head{margin:0!important;}
+th.header{width:85px!important;}
+.compensation_survey-box table{margin:0; border:none;}
+.compensation_survey-box table td{border: none!important; padding:0!important; text-align: left!important;}
+.compensation_survey-box table tr:nth-child(even) td {background:none!important;}
+#compensation_survey-note{display:block; width:100%; clear:both; line-height: 15px;}
+

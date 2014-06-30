@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chartdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<company>
+		<rank_2013>1</rank_2013>
+		<rank_2012>None</rank_2012>
+		<gc>Brackett Denniston</gc>
+		<company_name>General Electric</company_name>
+		<salary> $1,575,000 </salary>
+		<bonus> $9,309,625 </bonus>
+		<total_cash> $10,884,625 </total_cash>
+		<stockvesting> $1,244,613 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $2,033,676 </realized_options>
+		<total_cash_plus_options> $12,918,301 </total_cash_plus_options>
+		<stock_awards> </stock_awards>
+		<option_awards> $3,040,000 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/denniston_brackett3.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>2</rank_2013>
+		<rank_2012>1</rank_2012>
+		<gc>Louis Briskman</gc>
+		<company_name>CBS</company_name>
+		<salary> $1,305,000 </salary>
+		<bonus> $5,200,000 </bonus>
+		<total_cash> $6,505,000 </total_cash>
+		<stockvesting> $18,357,448 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $18,357,448 </realized_options>
+		<total_cash_plus_options> $24,862,448 </total_cash_plus_options>
+		<stock_awards> $1,799,962 </stock_awards>
+		<option_awards> $1,199,997 </option_awards>
+        <photo>http://www.law.com/image/nlj/128_pics/briskman_louis2.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>3</rank_2013>
+		<rank_2012>9</rank_2012>
+		<gc>Gary Lynch</gc>
+		<company_name>Bank of America Corp.</company_name>
+		<salary> $850,000 </salary>
+		<bonus> $4,210,854 </bonus>
+		<total_cash> $5,060,854 </total_cash>
+		<stockvesting> $1,244,613 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $1,244,613 </realized_options>
+		<total_cash_plus_options> $6,305,467 </total_cash_plus_options>
+		<stock_awards> $3,611,095 </stock_awards>
+		<option_awards></option_awards>
+        <photo>http://www.law.com/image/cc/128_pics/Gary_Lynch128.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>4</rank_2013>
+		<rank_2012>5</rank_2012>
+		<gc>Paul T. Cappuccio</gc>
+		<company_name>Time Warner</company_name>
+		<salary> $1,285,385 </salary>
+		<bonus> $3,475,000 </bonus>
+		<total_cash> $4,760,385 </total_cash>
+		<stockvesting> $1,997,349 </stockvesting>
+		<stockexercise> $1,538,659 </stockexercise>
+		<realized_options> $3,536,008 </realized_options>
+		<total_cash_plus_options> $8,296,393 </total_cash_plus_options>
+		<stock_awards> $1,908,988 </stock_awards>
+		<option_awards> $803,317 </option_awards>
+		<photo>http://www.law.com/images/75_pics/cappuccio_paul2.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>5</rank_2013>
+		<rank_2012>6</rank_2012>
+		<gc>Alan Braverman</gc>
+		<company_name>Walt Disney</company_name>
+		<salary> $1,230,000 </salary>
+		<bonus> $3,370,000 </bonus>
+		<total_cash> $4,600,000 </total_cash>
+		<stockvesting> $2,516,655 </stockvesting>
+		<stockexercise> $6,799,901 </stockexercise>
+		<realized_options> $9,316,556 </realized_options>
+		<total_cash_plus_options> $13,916,556 </total_cash_plus_options>
+		<stock_awards> $1,672,514 </stock_awards>
+		<option_awards> $1,000,003 </option_awards>
+		<photo>http://www.law.com/images/128_pics/braverman_alan.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>6</rank_2013>
+		<rank_2012>8</rank_2012>
+		<gc>David C. Drummond</gc>
+		<company_name>Google</company_name>
+		<salary> $650,000 </salary>
+		<bonus> $3,300,000 </bonus>
+		<total_cash> $3,950,000 </total_cash>
+		<stockvesting> $5,908,333 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $5,908,333 </realized_options>
+		<total_cash_plus_options> $9,858,333 </total_cash_plus_options>
+		<stock_awards> $17,022,655 </stock_awards>
+		<option_awards> $10,318,728 </option_awards>
+		<photo>http://www.law.com/image/cc/128_pics/Google_Drummond128.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>7</rank_2013>
+		<rank_2012>2</rank_2012>
+		<gc>Marc Firestone</gc>
+		<company_name>Philip Morris International</company_name>
+		<salary> $758,366 </salary>
+		<bonus> $2,844,494 </bonus>
+		<total_cash> $3,602,860 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $3,602,860 </total_cash_plus_options>
+		<stock_awards> $5,412,373 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/firestone_marc.jpg</photo>
+		<note>To compensate him for amounts lost upon leaving his prior employer, Mr. Firestone received a hiring sign-on bonus that comprised a cash amount of $250,000 and a stock award of $5,412,373.</note>
+	</company>
+	<company>
+		<rank_2013>8</rank_2013>
+		<rank_2012>11</rank_2012>
+		<gc>Michael Luttig</gc>
+		<company_name>Boeing</company_name>
+		<salary> $802,723 </salary>
+		<bonus> $2,699,295 </bonus>
+		<total_cash> $3,502,018 </total_cash>
+		<stockvesting> $7,241,488 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $7,241,488 </realized_options>
+		<total_cash_plus_options> $10,743,506 </total_cash_plus_options>
+		<stock_awards> $3,834,062 </stock_awards>
+		<option_awards> $818,270 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/luttig_mike.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>9</rank_2013>
+		<rank_2012>4</rank_2012>
+		<gc>Michael Fricklas</gc>
+		<company_name>Viacom</company_name>
+		<salary> $1,278,125 </salary>
+		<bonus> $2,153,250 </bonus>
+		<total_cash> $3,431,375 </total_cash>
+		<stockvesting> $2,008,113 </stockvesting>
+		<stockexercise> $937,328 </stockexercise>
+		<realized_options> $2,945,441 </realized_options>
+		<total_cash_plus_options> $6,376,816 </total_cash_plus_options>
+		<stock_awards> $1,800,023 </stock_awards>
+		<option_awards> $1,199,999 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/fricklas_michael.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>10</rank_2013>
+		<rank_2012>22</rank_2012>
+		<gc>Laura J. Schumacher</gc>
+		<company_name>Abbott Laboratories</company_name>
+		<salary> $831,682 </salary>
+		<bonus> $2,370,000 </bonus>
+		<total_cash> $3,201,682 </total_cash>
+		<stockvesting> $2,401,384 </stockvesting>
+		<stockexercise> $3,067,988 </stockexercise>
+		<realized_options> $5,469,372 </realized_options>
+		<total_cash_plus_options> $8,671,054 </total_cash_plus_options>
+		<stock_awards> $4,486,690 </stock_awards>
+		<option_awards> $576,809 </option_awards>
+		<photo>http://www.law.com/image/tx/128_pics/schumacher_laura_.jpg</photo>
+		<note>Bonus paid in recognition of performance related to the business separation.</note>
+	</company>
+	<company>
+		<rank_2013>11</rank_2013>
+		<rank_2012>12</rank_2012>
+		<gc>Alan D. Schnitzer</gc>
+		<company_name>Travelers Cos.</company_name>
+		<salary> $700,000 </salary>
+		<bonus> $2,400,000 </bonus>
+		<total_cash> $3,100,000 </total_cash>
+		<stockvesting> $2,252,674 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $2,252,674 </realized_options>
+		<total_cash_plus_options> $5,352,674 </total_cash_plus_options>
+		<stock_awards> $1,199,997 </stock_awards>
+		<option_awards> $800,134 </option_awards>
+		<photo>http://www.law.com/images/128_pics/schnitzer_alan.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>12</rank_2013>
+		<rank_2012>17</rank_2012>
+		<gc>Laureen Seeger</gc>
+		<company_name>McKesson</company_name>
+		<salary> $682,769 </salary>
+		<bonus> $2,192,779 </bonus>
+		<total_cash> $2,875,548 </total_cash>
+		<stockvesting> $895,787 </stockvesting>
+		<stockexercise> $3,333,287 </stockexercise>
+		<realized_options> $4,229,074 </realized_options>
+		<total_cash_plus_options> $7,104,622 </total_cash_plus_options>
+		<stock_awards> $2,004,240 </stock_awards>
+		<option_awards> $1,405,951 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>13</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Gerson Zweifach</gc>
+		<company_name>News Corp.</company_name>
+		<salary> $1,250,000 </salary>
+		<bonus> $1,500,000 </bonus>
+		<total_cash> $2,750,000 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $2,750,000 </total_cash_plus_options>
+		<stock_awards> $4,503,856 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/cc/128_pics/zweifach_gerson.jpeg</photo>
+	</company>
+	<company>
+		<rank_2013>14</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Gloria Santona</gc>
+		<company_name>McDonald's</company_name>
+		<salary> $632,500 </salary>
+		<bonus> $2,091,060 </bonus>
+		<total_cash> $2,723,560 </total_cash>
+		<stockvesting> $366,050 </stockvesting>
+		<stockexercise> $2,358,771 </stockexercise>
+		<realized_options> $2,724,821 </realized_options>
+		<total_cash_plus_options> $5,448,381 </total_cash_plus_options>
+		<stock_awards> $233,632 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/santona_gloria3.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>15</rank_2013>
+		<rank_2012>14</rank_2012>
+		<gc>David Bialosky (4)</gc>
+		<company_name>Goodyear Tire &amp; Rubber</company_name>
+		<salary> $533,333 </salary>
+		<bonus> $2,141,601 </bonus>
+		<total_cash> $2,674,934 </total_cash>
+		<stockvesting> $546,480 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $546,480 </realized_options>
+		<total_cash_plus_options> $3,221,414 </total_cash_plus_options>
+		<stock_awards> $146,475 </stock_awards>
+		<option_awards> $419,025 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/bialosky_david.jpg</photo>
+		<note>Represents the total value realized upon the vesting of 14,422 performance share awards for 2010-2012, which were paid 100% in shares of Common Stock, and the total value realized upon the vesting of 27,283 shares of restricted stock.</note>
+	</company>
+	<company>
+		<rank_2013>16</rank_2013>
+		<rank_2012>13</rank_2012>
+		<gc>James R. Jenkins</gc>
+		<company_name>Deere</company_name>
+		<salary> $564,852 </salary>
+		<bonus> $1,967,429 </bonus>
+		<total_cash> $2,532,281 </total_cash>
+		<stockvesting> $1,236,436 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $1,236,436 </realized_options>
+		<total_cash_plus_options> $3,768,717 </total_cash_plus_options>
+		<stock_awards> $1,027,253 </stock_awards>
+		<option_awards> $521,849 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/jenkins_james.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>17</rank_2013>
+		<rank_2012>25</rank_2012>
+		<gc>Terrence Larkin</gc>
+		<company_name>Lear</company_name>
+		<salary> $804,100 </salary>
+		<bonus> $1,659,285 </bonus>
+		<total_cash> $2,463,385 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $2,463,385 </total_cash_plus_options>
+		<stock_awards> $2,219,494 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/larkin_terrence.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>18</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Bruce Sewell</gc>
+		<company_name>Apple</company_name>
+		<salary> $805,400 </salary>
+		<bonus> $1,600,000 </bonus>
+		<total_cash> $2,405,400 </total_cash>
+		<stockvesting> $17,568,625 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $17,568,625 </realized_options>
+		<total_cash_plus_options> $19,974,025 </total_cash_plus_options>
+		<stock_awards> $66,571,750 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/sewell_bruce.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>19</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Adam Ciongoli</gc>
+		<company_name>Lincoln National</company_name>
+		<salary> $353,077 </salary>
+		<bonus> $2,017,204 </bonus>
+		<total_cash> $2,370,281 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $2,370,281 </total_cash_plus_options>
+		<stock_awards> $2,079,185 </stock_awards>
+		<option_awards> $330,751 </option_awards>
+		<photo>http://www.law.com/images/128_pics/ciongoli_adam.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>20</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Audrey Strauss</gc>
+		<company_name>Alcoa</company_name>
+		<salary> $376,667 </salary>
+		<bonus> $1,975,240 </bonus>
+		<total_cash> $2,351,907 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $2,351,907 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/ny/128_pics/strauss_audrey1.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>21</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>David J. Sorkin</gc>
+		<company_name>KKR</company_name>
+		<salary> $300,000 </salary>
+		<bonus> $2,045,000 </bonus>
+		<total_cash> $2,345,000 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $2,345,000 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/sorkin_david1.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>22</rank_2013>
+		<rank_2012>32</rank_2012>
+		<gc>Wayne Watts</gc>
+		<company_name>AT&amp;T</company_name>
+		<salary> $762,500 </salary>
+		<bonus> $1,578,000 </bonus>
+		<total_cash> $2,340,500 </total_cash>
+		<stockvesting> $4,721,811 </stockvesting>
+		<stockexercise> $136,502 </stockexercise>
+		<realized_options> $4,858,313 </realized_options>
+		<total_cash_plus_options> $7,198,813 </total_cash_plus_options>
+		<stock_awards> $3,405,785 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/cc/128_pics/Wayne_Watts_128.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>23</rank_2013>
+		<rank_2012>21</rank_2012>
+		<gc>Amy Schulman</gc>
+		<company_name>Pfizer</company_name>
+		<salary> $918,750 </salary>
+		<bonus> $1,410,000 </bonus>
+		<total_cash> $2,328,750 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $2,328,750 </total_cash_plus_options>
+		<stock_awards> $1,387,476 </stock_awards>
+		<option_awards> $1,399,483 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/schulman_amy.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>24</rank_2013>
+		<rank_2012>19</rank_2012>
+		<gc>Larry Hunter</gc>
+		<company_name>DirecTV</company_name>
+		<salary> $1,088,472 </salary>
+		<bonus> $1,185,000 </bonus>
+		<total_cash> $2,273,472 </total_cash>
+		<stockvesting> $3,587,525 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $3,587,525 </realized_options>
+		<total_cash_plus_options> $5,860,997 </total_cash_plus_options>
+		<stock_awards> $1,741,850 </stock_awards>
+		<option_awards> $522,509 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/hunter_larry.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>25</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>David J. Scott</gc>
+		<company_name>Amgen</company_name>
+		<salary> $845,916 </salary>
+		<bonus> $1,383,000 </bonus>
+		<total_cash> $2,228,916 </total_cash>
+		<stockvesting> $408,037 </stockvesting>
+		<stockexercise> $4,188,842 </stockexercise>
+		<realized_options> $4,596,879 </realized_options>
+		<total_cash_plus_options> $6,825,795 </total_cash_plus_options>
+		<stock_awards> $3,911,578 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+		<note>Mr. Scott was not an NEO in 2011 or 2010.</note>
+	</company>
+	<company>
+		<rank_2013>26</rank_2013>
+		<rank_2012>71</rank_2012>
+		<gc>Michael Carter</gc>
+		<company_name>Dole Food</company_name>
+		<salary> $620,192 </salary>
+		<bonus> $1,500,000 </bonus>
+		<total_cash> $2,120,192 </total_cash>
+		<stockvesting> $341,114 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $341,114 </realized_options>
+		<total_cash_plus_options> $2,461,306 </total_cash_plus_options>
+		<stock_awards> $168,503 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/carter_michael5.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>27</rank_2013>
+		<rank_2012>10</rank_2012>
+		<gc>David Ellen</gc>
+		<company_name>Cablevision Systems</company_name>
+		<salary> $850,000 </salary>
+		<bonus> $1,159,988 </bonus>
+		<total_cash> $2,009,988 </total_cash>
+		<stockvesting> $274,510 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $274,510 </realized_options>
+		<total_cash_plus_options> $2,284,498 </total_cash_plus_options>
+		<stock_awards> $1,054,602 </stock_awards>
+		<option_awards> $1,822,085 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/ellen_david.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>28</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Kim Sinatra</gc>
+		<company_name>Wynn Resorts</company_name>
+		<salary> $671,346 </salary>
+		<bonus> $1,300,000 </bonus>
+		<total_cash> $1,971,346 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise> $1,610,000 </stockexercise>
+		<realized_options> $1,610,000 </realized_options>
+		<total_cash_plus_options> $3,581,346 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/sinatra_kim.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>29</rank_2013>
+		<rank_2012>28</rank_2012>
+		<gc>Sheldon Cammaker</gc>
+		<company_name>EMCOR Group</company_name>
+		<salary> $510,000 </salary>
+		<bonus> $1,435,625 </bonus>
+		<total_cash> $1,945,625 </total_cash>
+		<stockvesting> $344,214 </stockvesting>
+		<stockexercise> $234,458 </stockexercise>
+		<realized_options> $578,672 </realized_options>
+		<total_cash_plus_options> $2,524,297 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/cammaker_sheldon.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>30</rank_2013>
+		<rank_2012>27</rank_2012>
+		<gc>Denise Keane</gc>
+		<company_name>Altria Group</company_name>
+		<salary> $827,500 </salary>
+		<bonus> $1,050,000 </bonus>
+		<total_cash> $1,877,500 </total_cash>
+		<stockvesting> $2,592,999 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $2,592,999 </realized_options>
+		<total_cash_plus_options> $4,470,499 </total_cash_plus_options>
+		<stock_awards> $1,750,028 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>31</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Thaddeus Miller</gc>
+		<company_name>Calpine</company_name>
+		<salary> $771,676 </salary>
+		<bonus> $1,067,479 </bonus>
+		<total_cash> $1,839,155 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,839,155 </total_cash_plus_options>
+		<stock_awards> $1,524,390 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>32</rank_2013>
+		<rank_2012>34</rank_2012>
+		<gc>Robert A. Armitage</gc>
+		<company_name>Eli Lilly</company_name>
+		<salary> $840,900 </salary>
+		<bonus> $955,262 </bonus>
+		<total_cash> $1,796,162 </total_cash>
+		<stockvesting> $5,709,352 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $5,709,352 </realized_options>
+		<total_cash_plus_options> $7,505,514 </total_cash_plus_options>
+		<stock_awards> $1,500,000 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/armitage_robert.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>33</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Keith Ebling</gc>
+		<company_name>Express Scripts Holding</company_name>
+		<salary> $597,309 </salary>
+		<bonus> $1,142,250 </bonus>
+		<total_cash> $1,739,559 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,739,559 </total_cash_plus_options>
+		<stock_awards> $1,075,000 </stock_awards>
+		<option_awards> $925,000 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>34</rank_2013>
+		<rank_2012>61</rank_2012>
+		<gc>Steven J. Kemps</gc>
+		<company_name>Dean Foods</company_name>
+		<salary> $516,767 </salary>
+		<bonus> $1,220,100 </bonus>
+		<total_cash> $1,736,867 </total_cash>
+		<stockvesting> $349,258 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $349,258 </realized_options>
+		<total_cash_plus_options> $2,086,125 </total_cash_plus_options>
+		<stock_awards> $807,248 </stock_awards>
+		<option_awards> $310,416 </option_awards>
+		<photo>http://www.law.com/images/128_pics/kemps_steven.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>35</rank_2013>
+		<rank_2012>30</rank_2012>
+		<gc>R.H. Pate</gc>
+		<company_name>Chevron</company_name>
+		<salary> $768,750 </salary>
+		<bonus> $948,900 </bonus>
+		<total_cash> $1,717,650 </total_cash>
+		<stockvesting> $2,585,760 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $2,585,760 </realized_options>
+		<total_cash_plus_options> $4,303,410 </total_cash_plus_options>
+		<stock_awards> $1,290,120 </stock_awards>
+		<option_awards> $1,821,300 </option_awards>
+		<photo>http://www.law.com/image/cc/128_pics/Pate_Hewitt2128.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>36</rank_2013>
+		<rank_2012>43</rank_2012>
+		<gc>Jay B. Stephens</gc>
+		<company_name>Raytheon</company_name>
+		<salary> $762,979 </salary>
+		<bonus> $950,000 </bonus>
+		<total_cash> $1,712,979 </total_cash>
+		<stockvesting> $2,311,810 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $2,311,810 </realized_options>
+		<total_cash_plus_options> $4,024,789 </total_cash_plus_options>
+		<stock_awards> $2,227,106 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/stephens_jay.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>37</rank_2013>
+		<rank_2012>29</rank_2012>
+		<gc>Bruce Kuhlik</gc>
+		<company_name>Merck</company_name>
+		<salary> $791,664 </salary>
+		<bonus> $898,270 </bonus>
+		<total_cash> $1,689,934 </total_cash>
+		<stockvesting> $877,018 </stockvesting>
+		<stockexercise> $921,432 </stockexercise>
+		<realized_options> $1,798,450 </realized_options>
+		<total_cash_plus_options> $3,488,384 </total_cash_plus_options>
+		<stock_awards> $1,236,796 </stock_awards>
+		<option_awards> $919,999 </option_awards>
+		<photo>http://www.law.com/image/nj/128_pics/kuhlik_bruce.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>38</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>James Evans</gc>
+		<company_name>American Financial Group</company_name>
+		<salary> $1,070,000 </salary>
+		<bonus> $616,000 </bonus>
+		<total_cash> $1,686,000 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise> $301,243 </stockexercise>
+		<realized_options> $301,243 </realized_options>
+		<total_cash_plus_options> $1,987,243 </total_cash_plus_options>
+		<stock_awards> $404,919 </stock_awards>
+		<option_awards> $407,075 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>39</rank_2013>
+		<rank_2012>33</rank_2012>
+		<gc>Sandra Leung</gc>
+		<company_name>Bristol-Myers Squibb</company_name>
+		<salary> $768,738 </salary>
+		<bonus> $907,256 </bonus>
+		<total_cash> $1,675,994 </total_cash>
+		<stockvesting> $2,636,124 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $2,636,124 </realized_options>
+		<total_cash_plus_options> $4,312,118 </total_cash_plus_options>
+		<stock_awards> $2,020,399 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/leung_sandra.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>40</rank_2013>
+		<rank_2012>44</rank_2012>
+		<gc>Robert Reeves</gc>
+		<company_name>Anadarko Petroleum</company_name>
+		<salary> $650,000 </salary>
+		<bonus> $1,000,350 </bonus>
+		<total_cash> $1,650,350 </total_cash>
+		<stockvesting> $4,145,159 </stockvesting>
+		<stockexercise> $436,378 </stockexercise>
+		<realized_options> $4,581,537 </realized_options>
+		<total_cash_plus_options> $6,231,887 </total_cash_plus_options>
+		<stock_awards> $1,848,466 </stock_awards>
+		<option_awards> $1,226,577 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/reeves_robert.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>41</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>James Barkley</gc>
+		<company_name>Simon Property Group</company_name>
+		<salary> $566,500 </salary>
+		<bonus> $1,000,000 </bonus>
+		<total_cash> $1,566,500 </total_cash>
+		<stockvesting> $905,546 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $905,546 </realized_options>
+		<total_cash_plus_options> $2,472,046 </total_cash_plus_options>
+		<stock_awards> $4,982,279 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>42</rank_2013>
+		<rank_2012>35</rank_2012>
+		<gc>Brian Miller</gc>
+		<company_name>AES</company_name>
+		<salary> $551,000 </salary>
+		<bonus> $1,006,438 </bonus>
+		<total_cash> $1,557,438 </total_cash>
+		<stockvesting> $179,443 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $179,443 </realized_options>
+		<total_cash_plus_options> $1,736,881 </total_cash_plus_options>
+		<stock_awards> $901,376 </stock_awards>
+		<option_awards> $209,543 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/miller_brian.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>43</rank_2013>
+		<rank_2012>23</rank_2012>
+		<gc>Donald J. Rosenberg</gc>
+		<company_name>Qualcomm</company_name>
+		<salary> $668,270 </salary>
+		<bonus> $850,000 </bonus>
+		<total_cash> $1,518,270 </total_cash>
+		<stockvesting> $853,112 </stockvesting>
+		<stockexercise> $2,442,220 </stockexercise>
+		<realized_options> $3,295,332 </realized_options>
+		<total_cash_plus_options> $4,813,602 </total_cash_plus_options>
+		<stock_awards> $4,400,011 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/rosenberg_donald1.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>44</rank_2013>
+		<rank_2012>72</rank_2012>
+		<gc>David Snively</gc>
+		<company_name>Monsanto</company_name>
+		<salary> $530,800 </salary>
+		<bonus> $975,000 </bonus>
+		<total_cash> $1,505,800 </total_cash>
+		<stockvesting> $187,548 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $187,548 </realized_options>
+		<total_cash_plus_options> $1,693,348 </total_cash_plus_options>
+		<stock_awards> $375,072 </stock_awards>
+		<option_awards> $824,411 </option_awards>
+		<photo>http://www.law.com/images/128_pics/snively_david.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>45</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Alan Kreczko</gc>
+		<company_name>Hartford Financial Services Group</company_name>
+		<salary> $593,750 </salary>
+		<bonus> $900,000 </bonus>
+		<total_cash> $1,493,750 </total_cash>
+		<stockvesting> $373,472 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $373,472 </realized_options>
+		<total_cash_plus_options> $1,867,222 </total_cash_plus_options>
+		<stock_awards> $450,000 </stock_awards>
+		<option_awards> $450,000 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/kreczko_alan.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>46</rank_2013>
+		<rank_2012>36</rank_2012>
+		<gc>Sylvia Kerrigan</gc>
+		<company_name>Marathon Oil</company_name>
+		<salary> $556,250 </salary>
+		<bonus> $935,700 </bonus>
+		<total_cash> $1,491,950 </total_cash>
+		<stockvesting> $385,709 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $385,709 </realized_options>
+		<total_cash_plus_options> $1,877,659 </total_cash_plus_options>
+		<stock_awards> $420,720 </stock_awards>
+		<option_awards> $771,193 </option_awards>
+		<photo>http://www.law.com/images/128_pics/kerrigan_sylvia_2005.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>47</rank_2013>
+		<rank_2012>62</rank_2012>
+		<gc>Cameron Findlay</gc>
+		<company_name>Medtronic</company_name>
+		<salary> $607,654 </salary>
+		<bonus> $874,658 </bonus>
+		<total_cash> $1,482,312 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,482,312 </total_cash_plus_options>
+		<stock_awards> $600,006 </stock_awards>
+		<option_awards> $474,087 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/findlay_cameron.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>48</rank_2013>
+		<rank_2012>63</rank_2012>
+		<gc>Javade Chaudhri</gc>
+		<company_name>Sempra Energy</company_name>
+		<salary> $531,800 </salary>
+		<bonus> $945,000 </bonus>
+		<total_cash> $1,476,800 </total_cash>
+		<stockvesting> $1,011,930 </stockvesting>
+		<stockexercise> $684,337 </stockexercise>
+		<realized_options> $1,696,267 </realized_options>
+		<total_cash_plus_options> $3,173,067 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/chaudhri_javade.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>49</rank_2013>
+		<rank_2012>26</rank_2012>
+		<gc>Paul Heldman</gc>
+		<company_name>Kroger</company_name>
+		<salary> $761,501 </salary>
+		<bonus> $650,595 </bonus>
+		<total_cash> $1,412,096 </total_cash>
+		<stockvesting> $625,328 </stockvesting>
+		<stockexercise> $840,400 </stockexercise>
+		<realized_options> $1,465,728 </realized_options>
+		<total_cash_plus_options> $2,877,824 </total_cash_plus_options>
+		<stock_awards> $551,418 </stock_awards>
+		<option_awards> $222,048 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/heldman_paul.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>50</rank_2013>
+		<rank_2012>39</rank_2012>
+		<gc>Charles Kalil</gc>
+		<company_name>Dow Chemical</company_name>
+		<salary> $951,618 </salary>
+		<bonus> $459,478 </bonus>
+		<total_cash> $1,411,096 </total_cash>
+		<stockvesting> $4,837,347 </stockvesting>
+		<stockexercise> $2,170,652 </stockexercise>
+		<realized_options> $7,007,999 </realized_options>
+		<total_cash_plus_options> $8,419,095 </total_cash_plus_options>
+		<stock_awards> $2,408,410 </stock_awards>
+		<option_awards> $1,380,079 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>51</rank_2013>
+		<rank_2012>66</rank_2012>
+		<gc>Ira Lederman</gc>
+		<company_name>W.R. Berkley</company_name>
+		<salary> $590,000 </salary>
+		<bonus> $765,549 </bonus>
+		<total_cash> $1,355,549 </total_cash>
+		<stockvesting> $973,250 </stockvesting>
+		<stockexercise> $1,152,791 </stockexercise>
+		<realized_options> $2,126,041 </realized_options>
+		<total_cash_plus_options> $3,481,590 </total_cash_plus_options>
+		<stock_awards> $832,500 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/lederman_ira.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>52</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Peter Millones</gc>
+		<company_name>Priceline.com</company_name>
+		<salary> $330,000 </salary>
+		<bonus> $1,000,000 </bonus>
+		<total_cash> $1,330,000 </total_cash>
+		<stockvesting> $5,860,534 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $5,860,534 </realized_options>
+		<total_cash_plus_options> $7,190,534 </total_cash_plus_options>
+		<stock_awards> $2,000,228 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>53</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Andrew Bonzani</gc>
+		<company_name>Interpublic Group</company_name>
+		<salary> $478,958 </salary>
+		<bonus> $850,000 </bonus>
+		<total_cash> $1,328,958 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,328,958 </total_cash_plus_options>
+		<stock_awards> $388,196 </stock_awards>
+		<option_awards> $400,000 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+		<note>Andrew Bonzani became a named executive officer in 2012</note>
+	</company>
+	<company>
+		<rank_2013>54</rank_2013>
+		<rank_2012>52</rank_2012>
+		<gc>Marc Lawrence-Apfelbaum</gc>
+		<company_name>Time Warner Cable</company_name>
+		<salary> $645,400 </salary>
+		<bonus> $679,365 </bonus>
+		<total_cash> $1,324,765 </total_cash>
+		<stockvesting> $438,096 </stockvesting>
+		<stockexercise> $3,436,787 </stockexercise>
+		<realized_options> $3,874,883 </realized_options>
+		<total_cash_plus_options> $5,199,648 </total_cash_plus_options>
+		<stock_awards> $679,493 </stock_awards>
+		<option_awards> $956,945 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>55</rank_2013>
+		<rank_2012>49</rank_2012>
+		<gc>Frank L. Steeves</gc>
+		<company_name>Emerson Electric</company_name>
+		<salary> $615,000 </salary>
+		<bonus> $700,000 </bonus>
+		<total_cash> $1,315,000 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,315,000 </total_cash_plus_options>
+		<stock_awards> $207,125 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/steeves_frank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>56</rank_2013>
+		<rank_2012>81</rank_2012>
+		<gc>Ellen Oran Kaden</gc>
+		<company_name>Campbell Soup</company_name>
+		<salary> $665,012 </salary>
+		<bonus> $646,800 </bonus>
+		<total_cash> $1,311,812 </total_cash>
+		<stockvesting> $467,811 </stockvesting>
+		<stockexercise> $1,205,808 </stockexercise>
+		<realized_options> $1,673,619 </realized_options>
+		<total_cash_plus_options> $2,985,431 </total_cash_plus_options>
+		<stock_awards> $1,821,395 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/kaden_ellen.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>57</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>E. Robert Lupone</gc>
+		<company_name>Textron</company_name>
+		<salary> $537,692 </salary>
+		<bonus> $770,000 </bonus>
+		<total_cash> $1,307,692 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,307,692 </total_cash_plus_options>
+		<stock_awards> $1,379,631 </stock_awards>
+		<option_awards> $458,550 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>58</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Amy Fliegelman Olli</gc>
+		<company_name>CA</company_name>
+		<salary> $600,000 </salary>
+		<bonus> $705,600 </bonus>
+		<total_cash> $1,305,600 </total_cash>
+		<stockvesting> $1,500,201 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $1,500,201 </realized_options>
+		<total_cash_plus_options> $2,805,801 </total_cash_plus_options>
+		<stock_awards> $938,193 </stock_awards>
+		<option_awards> $197,208 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>59</rank_2013>
+		<rank_2012>58</rank_2012>
+		<gc>Randal Milch</gc>
+		<company_name>Verizon Communications</company_name>
+		<salary> $648,077 </salary>
+		<bonus> $643,500 </bonus>
+		<total_cash> $1,291,577 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,291,577 </total_cash_plus_options>
+		<stock_awards> $3,250,020 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/milch_randal.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>60</rank_2013>
+		<rank_2012>65</rank_2012>
+		<gc>Joey M. Loudermilk</gc>
+		<company_name>Aflac</company_name>
+		<salary> $542,300 </salary>
+		<bonus> $732,648 </bonus>
+		<total_cash> $1,274,948 </total_cash>
+		<stockvesting> $689,424 </stockvesting>
+		<stockexercise> $1,251,535 </stockexercise>
+		<realized_options> $1,940,959 </realized_options>
+		<total_cash_plus_options> $3,215,907 </total_cash_plus_options>
+		<stock_awards> $563,296 </stock_awards>
+		<option_awards> $197,557 </option_awards>
+		<photo>http://www.law.com/images/128_pics/loudermilk_joey.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>61</rank_2013>
+		<rank_2012>68</rank_2012>
+		<gc>Michael Rowles</gc>
+		<company_name>Live Nation Entertainment</company_name>
+		<salary> $635,250 </salary>
+		<bonus> $635,250 </bonus>
+		<total_cash> $1,270,500 </total_cash>
+		<stockvesting> $833,641 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $833,641 </realized_options>
+		<total_cash_plus_options> $2,104,141 </total_cash_plus_options>
+		<stock_awards> $299,766 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/rowles_michael.jpg</photo>
+		<note>Upon the vesting of Mr. Rowles’ restricted stock awards, 29,737 shares of our common stock with an aggregate value on vesting of $305,530 were withheld to satisfy tax withholding obligations.</note>
+	</company>
+	<company>
+		<rank_2013>62</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Anthony Lannie</gc>
+		<company_name>Apache</company_name>
+		<salary> $606,899 </salary>
+		<bonus> $650,000 </bonus>
+		<total_cash> $1,256,899 </total_cash>
+		<stockvesting> $823,213 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $823,213 </realized_options>
+		<total_cash_plus_options> $2,080,112 </total_cash_plus_options>
+		<stock_awards> $1,078,470 </stock_awards>
+		<option_awards> $482,011 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>63</rank_2013>
+		<rank_2012>4</rank_2012>
+		<gc>Nicole Jones</gc>
+		<company_name>Cigna</company_name>
+		<salary> $526,290 </salary>
+		<bonus> $719,486 </bonus>
+		<total_cash> $1,245,776 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,245,776 </total_cash_plus_options>
+		<stock_awards> $935,937 </stock_awards>
+		<option_awards> $465,261 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/jones_nicole.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>64</rank_2013>
+		<rank_2012>57</rank_2012>
+		<gc>Kenneth Siegel</gc>
+		<company_name>Starwood Hotels &amp; Resorts</company_name>
+		<salary> $638,490 </salary>
+		<bonus> $600,181 </bonus>
+		<total_cash> $1,238,671 </total_cash>
+		<stockvesting> $1,826,100 </stockvesting>
+		<stockexercise> $6,012,474 </stockexercise>
+		<realized_options> $7,838,574 </realized_options>
+		<total_cash_plus_options> $9,077,245 </total_cash_plus_options>
+		<stock_awards> $1,476,605 </stock_awards>
+		<option_awards> $404,877 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>65</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Robert Normile</gc>
+		<company_name>Mattel</company_name>
+		<salary> $576,538 </salary>
+		<bonus> $653,718 </bonus>
+		<total_cash> $1,230,256 </total_cash>
+		<stockvesting> $481,071 </stockvesting>
+		<stockexercise> $1,872,136 </stockexercise>
+		<realized_options> $2,353,207 </realized_options>
+		<total_cash_plus_options> $3,583,463 </total_cash_plus_options>
+		<stock_awards> $728,975 </stock_awards>
+		<option_awards> $368,645 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>66</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Bart R. Schwartz</gc>
+		<company_name>Assurant</company_name>
+		<salary> $520,000 </salary>
+		<bonus> $686,400 </bonus>
+		<total_cash> $1,206,400 </total_cash>
+		<stockvesting> $184,088 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $184,088 </realized_options>
+		<total_cash_plus_options> $1,390,488 </total_cash_plus_options>
+		<stock_awards> $1,219,974 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>67</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Gregory Butler</gc>
+		<company_name>Northeast Utilities</company_name>
+		<salary> $431,885 </salary>
+		<bonus> $727,534 </bonus>
+		<total_cash> $1,159,419 </total_cash>
+		<stockvesting> $398,184 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $398,184 </realized_options>
+		<total_cash_plus_options> $1,557,603 </total_cash_plus_options>
+		<stock_awards> $659,226 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/butler_greg.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>68</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Joseph Masters</gc>
+		<company_name>URS</company_name>
+		<salary> $542,001 </salary>
+		<bonus> $607,719 </bonus>
+		<total_cash> $1,149,720 </total_cash>
+		<stockvesting> $186,795 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $186,795 </realized_options>
+		<total_cash_plus_options> $1,336,515 </total_cash_plus_options>
+		<stock_awards> $797,638 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+		<note>On April 1, 2012, Mr. Masters became vested under his stock awards in 11,875 shares of common stock with a market price of $42.52, and on May 1, 2012, in 4,500 shares of common stock with a market price of $41.31.</note>
+	</company>
+	<company>
+		<rank_2013>69</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Hyun Park</gc>
+		<company_name>PG&amp;E Corp.</company_name>
+		<salary> $582,076 </salary>
+		<bonus> $551,040 </bonus>
+		<total_cash> $1,133,116 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,133,116 </total_cash_plus_options>
+		<stock_awards> $1,104,197 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/park_hyun.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>70</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Bruce Hawthorne</gc>
+		<company_name>Huntington Ingalls Industries</company_name>
+		<salary> $500,000 </salary>
+		<bonus> $630,000 </bonus>
+		<total_cash> $1,130,000 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,130,000 </total_cash_plus_options>
+		<stock_awards> $874,975 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>71</rank_2013>
+		<rank_2012>91</rank_2012>
+		<gc>Jonathan Ferrando</gc>
+		<company_name>AutoNation</company_name>
+		<salary> $561,000 </salary>
+		<bonus> $563,931 </bonus>
+		<total_cash> $1,124,931 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,124,931 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards> $1,902,514 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/ferrando_jonathan.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>72</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Michael Donaldson</gc>
+		<company_name>EOG Resources</company_name>
+		<salary> $356,846 </salary>
+		<bonus> $766,846 </bonus>
+		<total_cash> $1,123,692 </total_cash>
+		<stockvesting> $142,738 </stockvesting>
+		<stockexercise> $139,548 </stockexercise>
+		<realized_options> $282,286 </realized_options>
+		<total_cash_plus_options> $1,405,978 </total_cash_plus_options>
+		<stock_awards> $1,307,492 </stock_awards>
+		<option_awards> $322,013 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>73</rank_2013>
+		<rank_2012>83</rank_2012>
+		<gc>Charles S. Parrish</gc>
+		<company_name>Tesoro</company_name>
+		<salary> $515,481 </salary>
+		<bonus> $605,414 </bonus>
+		<total_cash> $1,120,895 </total_cash>
+		<stockvesting> $922,100 </stockvesting>
+		<stockexercise> $698,727 </stockexercise>
+		<realized_options> $1,620,827 </realized_options>
+		<total_cash_plus_options> $2,741,722 </total_cash_plus_options>
+		<stock_awards> $1,150,140 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>74</rank_2013>
+		<rank_2012>45</rank_2012>
+		<gc>Alan R. Crain</gc>
+		<company_name>Baker Hughes</company_name>
+		<salary> $567,692 </salary>
+		<bonus> $546,249 </bonus>
+		<total_cash> $1,113,941 </total_cash>
+		<stockvesting> $657,203 </stockvesting>
+		<stockexercise> $41,467 </stockexercise>
+		<realized_options> $698,670 </realized_options>
+		<total_cash_plus_options> $1,812,611 </total_cash_plus_options>
+		<stock_awards> $1,195,678 </stock_awards>
+		<option_awards> $754,373 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/crain_alan.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>75</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Laura Stein</gc>
+		<company_name>Clorox</company_name>
+		<salary> $532,252 </salary>
+		<bonus> $580,340 </bonus>
+		<total_cash> $1,112,592 </total_cash>
+		<stockvesting> $612,355 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $612,355 </realized_options>
+		<total_cash_plus_options> $1,724,947 </total_cash_plus_options>
+		<stock_awards> $380,277 </stock_awards>
+		<option_awards> $380,030 </option_awards>
+		<photo>http://www.law.com/images/128_pics/stein_laura1.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>76</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>David Buchen</gc>
+		<company_name>Actavis</company_name>
+		<salary> $557,726 </salary>
+		<bonus> $538,238 </bonus>
+		<total_cash> $1,095,964 </total_cash>
+		<stockvesting> $924,617 </stockvesting>
+		<stockexercise> $1,998,651 </stockexercise>
+		<realized_options> $2,923,268 </realized_options>
+		<total_cash_plus_options> $4,019,232 </total_cash_plus_options>
+		<stock_awards> $1,686,427 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>77</rank_2013>
+		<rank_2012>80</rank_2012>
+		<gc>Marc A. Strassler</gc>
+		<company_name>Rite Aid</company_name>
+		<salary> $439,029 </salary>
+		<bonus> $656,464 </bonus>
+		<total_cash> $1,095,493 </total_cash>
+		<stockvesting> $105,175 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $105,175 </realized_options>
+		<total_cash_plus_options> $1,200,668 </total_cash_plus_options>
+		<stock_awards> $660,858 </stock_awards>
+		<option_awards> $210,658 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>78</rank_2013>
+		<rank_2012>79</rank_2012>
+		<gc>Roderick Palmore</gc>
+		<company_name>General Mills</company_name>
+		<salary> $612,720 </salary>
+		<bonus> $479,759 </bonus>
+		<total_cash> $1,092,479 </total_cash>
+		<stockvesting> $1,563,600 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $1,563,600 </realized_options>
+		<total_cash_plus_options> $2,656,079 </total_cash_plus_options>
+		<stock_awards> $957,860 </stock_awards>
+		<option_awards> $213,295 </option_awards>
+		<photo>http://www.law.com/images/128_pics/palmore_rick.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>79</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>James Hixon</gc>
+		<company_name>Norfolk Southern</company_name>
+		<salary> $600,000 </salary>
+		<bonus> $483,570 </bonus>
+		<total_cash> $1,083,570 </total_cash>
+		<stockvesting> $1,659,120 </stockvesting>
+		<stockexercise> $281,029 </stockexercise>
+		<realized_options> $1,940,149 </realized_options>
+		<total_cash_plus_options> $3,023,719 </total_cash_plus_options>
+		<stock_awards> $1,269,565 </stock_awards>
+		<option_awards> $429,120 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>80</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>David Smith</gc>
+		<company_name>Archer Daniels Midland</company_name>
+		<salary> $901,400 </salary>
+		<bonus> $173,533 </bonus>
+		<total_cash> $1,074,933 </total_cash>
+		<stockvesting> $378,894 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $378,894 </realized_options>
+		<total_cash_plus_options> $1,453,827 </total_cash_plus_options>
+		<stock_awards> $796,903 </stock_awards>
+		<option_awards> $580,380 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+		<note>Mr. Smith retired as an executive officer and employee of the company effective December 31, 2012.</note>
+	</company>
+	<company>
+		<rank_2013>81</rank_2013>
+		<rank_2012>54</rank_2012>
+		<gc>Leila Vespoli</gc>
+		<company_name>FirstEnergy</company_name>
+		<salary> $658,558 </salary>
+		<bonus> $403,684 </bonus>
+		<total_cash> $1,062,242 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,062,242 </total_cash_plus_options>
+		<stock_awards> $1,438,699 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/vespoli_leila.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>82</rank_2013>
+		<rank_2012>59</rank_2012>
+		<gc>Dwight W. Rettig</gc>
+		<company_name>National Oilwell Varco</company_name>
+		<salary> $550,000 </salary>
+		<bonus> $505,624 </bonus>
+		<total_cash> $1,055,624 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise> $1,387,265 </stockexercise>
+		<realized_options> $1,387,265 </realized_options>
+		<total_cash_plus_options> $2,442,889 </total_cash_plus_options>
+		<stock_awards> $854,258 </stock_awards>
+		<option_awards> $870,290 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>83</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Elizabeth Abdoo</gc>
+		<company_name>Host Hotels &amp; Resorts</company_name>
+		<salary> $425,000 </salary>
+		<bonus> $623,220 </bonus>
+		<total_cash> $1,048,220 </total_cash>
+		<stockvesting> $1,476,287 </stockvesting>
+		<stockexercise> $529,265 </stockexercise>
+		<realized_options> $2,005,552 </realized_options>
+		<total_cash_plus_options> $3,053,772 </total_cash_plus_options>
+		<stock_awards> $1,030,850 </stock_awards>
+		<option_awards> $98,500 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>84</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Fournier Gale</gc>
+		<company_name>Regions Financial</company_name>
+		<salary> $508,750 </salary>
+		<bonus> $515,342 </bonus>
+		<total_cash> $1,024,092 </total_cash>
+		<stockvesting> $145,833 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $145,833 </realized_options>
+		<total_cash_plus_options> $1,169,925 </total_cash_plus_options>
+		<stock_awards> $600,933 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>85</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Timothy R. Donovan</gc>
+		<company_name>Caesars Entertainment</company_name>
+		<salary> $700,000 </salary>
+		<bonus> $320,000 </bonus>
+		<total_cash> $1,020,000 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $1,020,000 </total_cash_plus_options>
+		<stock_awards> $275,210 </stock_awards>
+		<option_awards> $178,737 </option_awards>
+		<photo>http://www.law.com/image/cc/128_pics/Donovan_Tim128.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>86</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>William C. Lemmer</gc>
+		<company_name>Cameron International</company_name>
+		<salary> $513,700 </salary>
+		<bonus> $496,702 </bonus>
+		<total_cash> $1,010,402 </total_cash>
+		<stockvesting> $289,900 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $289,900 </realized_options>
+		<total_cash_plus_options> $1,300,302 </total_cash_plus_options>
+		<stock_awards> $1,340,191 </stock_awards>
+		<option_awards> $679,995 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>87</rank_2013>
+		<rank_2012>94</rank_2012>
+		<gc>Charles E. Baker</gc>
+		<company_name>Ball</company_name>
+		<salary> $383,485 </salary>
+		<bonus> $626,596 </bonus>
+		<total_cash> $1,010,081 </total_cash>
+		<stockvesting> $478,160 </stockvesting>
+		<stockexercise> $252,654 </stockexercise>
+		<realized_options> $730,814 </realized_options>
+		<total_cash_plus_options> $1,740,895 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards> $254,880 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>88</rank_2013>
+		<rank_2012>69</rank_2012>
+		<gc>Thomas P. Mason</gc>
+		<company_name>Energy Transfer Equity</company_name>
+		<salary> $500,000 </salary>
+		<bonus> $500,000 </bonus>
+		<total_cash> $1,000,000 </total_cash>
+		<stockvesting> $1,433,267 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $1,433,267 </realized_options>
+		<total_cash_plus_options> $2,433,267 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>89</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Stanley Komaroff</gc>
+		<company_name>Henry Schein</company_name>
+		<salary> $493,760 </salary>
+		<bonus> $505,058 </bonus>
+		<total_cash> $998,818 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $- </realized_options>
+		<total_cash_plus_options> $998,818 </total_cash_plus_options>
+		<stock_awards> $1,100,000 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>90</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>J.A. Bouknight</gc>
+		<company_name>Public Service Enterprise Group</company_name>
+		<salary> $535,570 </salary>
+		<bonus> $461,300 </bonus>
+		<total_cash> $996,870 </total_cash>
+		<stockvesting> $194,963 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $194,963 </realized_options>
+		<total_cash_plus_options> $1,191,833 </total_cash_plus_options>
+		<stock_awards> $849,495 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/images/128_pics/bouknight_lon.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>91</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>James Breedlove</gc>
+		<company_name>Praxair</company_name>
+		<salary> $501,250 </salary>
+		<bonus> $488,839 </bonus>
+		<total_cash> $990,089 </total_cash>
+		<stockvesting> $1,547,635 </stockvesting>
+		<stockexercise> $949,513 </stockexercise>
+		<realized_options> $2,497,148 </realized_options>
+		<total_cash_plus_options> $3,487,237 </total_cash_plus_options>
+		<stock_awards> $629,805 </stock_awards>
+		<option_awards> $630,406 </option_awards>
+		<photo>http://www.law.com/image/cc/128_pics/breedlove_james_128.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>92</rank_2013>
+		<rank_2012>41</rank_2012>
+		<gc>Scott Rozzell</gc>
+		<company_name>CenterPoint Energy</company_name>
+		<salary> $516,249 </salary>
+		<bonus> $460,753 </bonus>
+		<total_cash> $977,002 </total_cash>
+		<stockvesting> $920,713 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $920,713 </realized_options>
+		<total_cash_plus_options> $1,897,715 </total_cash_plus_options>
+		<stock_awards> $1,177,006 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>93</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Stacey W. Goff</gc>
+		<company_name>CenturyLink</company_name>
+		<salary> $450,096 </salary>
+		<bonus> $526,336 </bonus>
+		<total_cash> $976,432 </total_cash>
+		<stockvesting> $1,641,669 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $1,641,669 </realized_options>
+		<total_cash_plus_options> $2,618,101 </total_cash_plus_options>
+		<stock_awards> $1,293,966 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>94</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>J. D. Garraux</gc>
+		<company_name>United States Steel</company_name>
+		<salary> $571,200 </salary>
+		<bonus> $402,000 </bonus>
+		<total_cash> $973,200 </total_cash>
+		<stockvesting> $234,830 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $234,830 </realized_options>
+		<total_cash_plus_options> $1,208,030 </total_cash_plus_options>
+		<stock_awards> $868,071 </stock_awards>
+		<option_awards> $372,048 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>95</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Ron Ricks</gc>
+		<company_name>Southwest Airlines</company_name>
+		<salary> $438,525 </salary>
+		<bonus> $528,000 </bonus>
+		<total_cash> $966,525 </total_cash>
+		<stockvesting> $415,650 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $415,650 </realized_options>
+		<total_cash_plus_options> $1,382,175 </total_cash_plus_options>
+		<stock_awards> $1,197,002 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>96</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Bruce D. Peterson</gc>
+		<company_name>DTE Energy</company_name>
+		<salary> $495,308 </salary>
+		<bonus> $465,300 </bonus>
+		<total_cash> $960,608 </total_cash>
+		<stockvesting> $334,585 </stockvesting>
+		<stockexercise> $1,157,263 </stockexercise>
+		<realized_options> $1,491,848 </realized_options>
+		<total_cash_plus_options> $2,452,456 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>97</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Elizabeth Moore</gc>
+		<company_name>Consolidated Edison</company_name>
+		<salary> $539,142 </salary>
+		<bonus> $420,200 </bonus>
+		<total_cash> $959,342 </total_cash>
+		<stockvesting> $812,364 </stockvesting>
+		<stockexercise></stockexercise>
+		<realized_options> $812,364 </realized_options>
+		<total_cash_plus_options> $1,771,706 </total_cash_plus_options>
+		<stock_awards> $696,510 </stock_awards>
+		<option_awards></option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>98</rank_2013>
+		<rank_2012>40</rank_2012>
+		<gc>Kim M. Rivera</gc>
+		<company_name>DaVita HealthCare Partners</company_name>
+		<salary> $499,994 </salary>
+		<bonus> $431,000 </bonus>
+		<total_cash> $930,994 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise> $863,534 </stockexercise>
+		<realized_options> $863,534 </realized_options>
+		<total_cash_plus_options> $1,794,528 </total_cash_plus_options>
+		<stock_awards> $358,714 </stock_awards>
+		<option_awards> $120,744 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>99</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Jeffrey Sherman</gc>
+		<company_name>Becton Dickinson</company_name>
+		<salary> $486,250 </salary>
+		<bonus> $444,300 </bonus>
+		<total_cash> $930,550 </total_cash>
+		<stockvesting> $272,494 </stockvesting>
+		<stockexercise> $497,472 </stockexercise>
+		<realized_options> $769,966 </realized_options>
+		<total_cash_plus_options> $1,700,516 </total_cash_plus_options>
+		<stock_awards> $839,910 </stock_awards>
+		<option_awards> $559,430 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/sherman_jeffrey.jpg</photo>
+	</company>
+	<company>
+		<rank_2013>100</rank_2013>
+		<rank_2012></rank_2012>
+		<gc>Roger A. Cooke</gc>
+		<company_name>Precision Castparts</company_name>
+		<salary> $516,250 </salary>
+		<bonus> $406,600 </bonus>
+		<total_cash> $922,850 </total_cash>
+		<stockvesting></stockvesting>
+		<stockexercise> $2,467,956 </stockexercise>
+		<realized_options> $2,467,956 </realized_options>
+		<total_cash_plus_options> $3,390,806 </total_cash_plus_options>
+		<stock_awards></stock_awards>
+		<option_awards> $1,136,406 </option_awards>
+		<photo>http://www.law.com/image/nlj/128_pics/portrait_blank.jpg</photo>
+	</company>
+</chartdata>
