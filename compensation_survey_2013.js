@@ -2,7 +2,7 @@ var isie = true;
 var xml;
 
 $(document).ready(function() {
-	for browser detection
+	// for browser detection
 	 if($.browser.webkit){
 		b = 'wk';
 		isie = false;
