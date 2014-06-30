@@ -83,7 +83,6 @@ function buildNav(){
 function initNav(){
 	var background_color;
 	
-	$('table.tablesorter').tablesorter();
 	$('table.tablesorter').tableScroll({height:299});
 	
 	$("table.tablesorter").bind("sortStart",function() {
