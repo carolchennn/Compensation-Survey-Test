@@ -29,7 +29,7 @@ $(document).ready(function() {
 			
 function buildPage(){
 	//get css
-	var style = 'ccompensation_survey_2013.css';
+	var style = 'compensation_survey_2013.css';
 
 	if($.browser.msie){
 		isie = true;
@@ -49,7 +49,7 @@ function buildPage(){
 	}	
 
 	//load the xml
-	$.get('compensation_survey/compensation_survey_2013.xml', function(data){
+	$.get('compensation_survey_2013.xml', function(data){
 		xml = data;
 		buildNav();
 	});
