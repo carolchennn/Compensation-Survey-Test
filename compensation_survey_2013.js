@@ -3,22 +3,22 @@ var xml;
 
 $(document).ready(function() {
 	//for browser detection
-	if($.browser.webkit){
-		b = 'wk';
-		isie = false;
-	}
-	if($.browser.safari){
-		b = 's';
-		isie = false;
-	}
-	if($.browser.mozilla){
-		b = 'mz';
-		isie = false;
-	}
-	if($.browser.opera){
-		b = 'o';
-		isie = false;
-	}
+	// if($.browser.webkit){
+	//	b = 'wk';
+	//	isie = false;
+//	}
+//	if($.browser.safari){
+//		b = 's';
+//		isie = false;
+//	}
+//	if($.browser.mozilla){
+//		b = 'mz';
+//		isie = false;
+//	}
+//	if($.browser.opera){
+//		b = 'o';
+//		isie = false;
+//	}  
 
 	$.get('compensation_survey-index_content_2013.html', function(data){
 		$('#compensation_survey-container').html(data);
