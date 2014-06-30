@@ -1,0 +1,1271 @@
+/*
+
+if we need a button green button  
+*/
+/* apply a natural box layout model to all elements */
+div, section, a, p, header, nav, footer, ul, li, span {
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+ }
+ 
+
+/*select, 
+textarea,
+input,
+input[type="text"], 
+input[type="password"], 
+input[type="datetime"], 
+input[type="datetime-local"], 
+input[type="date"], 
+input[type="month"], 
+input[type="time"], 
+input[type="week"], 
+input[type="number"], 
+input[type="email"], 
+input[type="url"], 
+input[type="search"], 
+input[type="tel"], 
+input[type="color"], 
+.uneditable-input {
+    -moz-box-sizing: content-box; 
+    -webkit-box-sizing: content-box; 
+    box-sizing: content-box;
+}
+
+select, input[type="file"]  {
+    height: 20px;
+}*/
+
+ /**
+  * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+  */
+.menu-nav {
+    z-index:3 !important; /*this needs to be higher because book center carousel Prev and Next buttons are at z-index:2*/
+} 
+.register-btn {
+    font-family: "Droid Sans", sans-serif;
+    font-size: 11px;
+    line-height: 20px;
+    background: #467984;
+    border: none;
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+    padding: 7px 0;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.offscreen {
+    position: absolute;
+    left:-100000em;
+    height: 0;
+    line-height: 0;
+    float: left;
+}
+
+.magazine-title-div .span5 {margin-left:0;}
+
+/**
+ * Bootstrap override
+ * - currently being used to display show password.  That column should just be made bigger
+ */
+.tab-content {
+  overflow: visible; 
+}
+
+/**
+ * ES OVERLAY CLASSES
+ */
+.isLoading {
+    position: relative;
+}
+.esLoaderOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background:rgba(255,255,255,0.5);
+    z-index: 2;
+}
+/**
+ * Main Nav stuff.
+ */
+
+.halfWidth {
+    float: left;
+    width: 50%;
+}
+
+/** remove the line-height**/
+/** add top padding and remove margin **/
+/** this will make the whole visible area of the link clickable **/
+/*.menu-div ul li > a {
+    line-height: auto;
+    padding-top:5px;
+    margin-top: 0;
+}*/
+
+.menu-div .selected-section > a {
+    color: #fff !important;
+}
+
+.section.selected-section .sections-menu {
+    display: block;
+ 
+}
+.sections-div.open .sections-menu {
+    display: block;
+    height: auto;
+}
+
+.selected-section .sections-option {
+    background: url(img/nav-sections-icon-open.png) no-repeat left !important;
+    color: #fff !important;
+}
+
+.selected-section .subscribe-option {
+    background: url(img/subscribe-icon-open.png) no-repeat left !important;
+    color: #fff !important;
+}
+
+.selected-section .register-option {
+    background: url(img/register-icon-open.png) no-repeat left !important;
+    color: #fff !important;
+}
+
+.selected-section .search-option {
+    background: url(img/nav-search-icon-open.png) no-repeat left !important;
+    color: #fff !important;
+}
+
+
+
+.selected-section .sign-in-option,
+.selected-section .my-account-option {
+    background: url(img/sign-in-icon-open.png) no-repeat left !important;
+    color: #fff !important;
+}
+
+
+/**
+ * Change from prototype
+ */
+#emailSignIn .sign-in-account-opened,
+#emailPasswordReminder .sign-in-account-opened {
+    display: block;
+}
+
+
+/**
+ * stalker changes to use similar nav
+ */
+
+.share-sub-menu {
+    display: none;
+}
+.share-sub-menu.open .signed-in-share,
+.share-sub-menu.open .not-signed-in-share,
+.share-sub-menu.open .briefcase-alert-folder {
+    display: block;
+}
+
+.share-element .title-bar .title {
+    width: 82%;
+    
+}
+.new-folder-name {
+    padding-bottom:5px; 
+    color:#467984; 
+    display:block
+}
+
+.share-element .briefcase-popover {
+    display: block;
+    left: 100px !important; /* this is because the element in style.css has !important*/
+}
+/*
+button styles are on the span inside, but this adds position to the button
+ */
+
+.close-brief {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/*
+these should probaby be removed from bootstrap
+input:focus:invalid,
+textarea:focus:invalid,
+select:focus:invalid {
+}
+
+input:focus:invalid:focus,
+textarea:focus:invalid:focus,
+select:focus:invalid:focus {
+}
+*/
+
+/**
+ * TEXT LIST
+ * Element solutions removed the <hr/> tag from each, moving to a border instead
+ */
+
+.text-list h2 {
+    border-bottom: 1px solid #e3e1e2;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+.text-list ul :first-child {
+    border-top: 0;
+}
+.text-list li {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 1px solid #e3e1e2;
+}
+
+.thumbnail-list li {
+
+}
+/**
+ * since we are now adding breadcrumb's to any possibly container, this will 
+ * keep the font-size at 11px, regardless of any li font-sizes
+ */
+.breadcrumb li {
+    font-size: 11px !important;
+}
+
+/* ES OVERRIDE */
+.home-clm2 .text-list h2 {
+    margin-bottom: 0;
+}
+
+.home-hdr-container .text-list li {
+    padding: 7px 0;
+    margin: 0;
+    border-top: 1px solid #4a4e50;
+}
+.home-hdr-container .text-list a {
+    font-family: "Droid Sans", sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+.home-hdr-container .text-list ul :first-child {
+    border-top: 0;
+}
+.signup-box input[type="text"]{
+    border-radius: 0px; 
+    position: absolute; 
+    top: 65%; 
+    left: 10%; 
+    width: 53%;
+}
+.signup-box .submit-bt{
+    position: absolute; 
+    top: 65%; 
+    left: 70%; 
+    padding:8px;
+}
+
+
+/**
+ * Sidebar module
+ */
+.sidebar-module {
+    border-top: 1px solid #E3E1E2;
+    padding: 3% 0 0 0;
+    clear:both;
+}
+:first-child.sidebar-module{
+    border-top: none;
+    padding-top: 7.2%; 
+}
+
+.charts-sponsor .sponsor-div {padding:0;}
+
+/**
+ * Basic list Slider
+ */
+
+.sidebar-module .slider-container {
+    padding: 0;
+}
+
+/**
+ * right-container probably not necessary
+ */
+.right-container .slider-container h2 {
+    display: inline-block;
+    margin-bottom: 0;
+    border-bottom: none;
+    vertical-align: middle;
+    float: left;
+    /*width: 70%;*/
+    padding-right: 0;
+}
+.right-container .slider-container h2 {
+    border-bottom: 1px solid #e3e1e2;
+    padding-right:20.5%;
+    width:80%;
+}
+
+ 
+.slider-container h2 + .controls {
+    top: 5px;
+}
+.slider { 
+    overflow: hidden;
+    position:relative;
+    clear: both; 
+}
+.slider .slides { 
+    position: relative; 
+    white-space: nowrap; /* no-wrap allows these to flow continously like a float */
+    
+} 
+
+.slider .slide { 
+    display: inline-block;
+    position: relative;
+    vertical-align: top; 
+    width: 100%; 
+}   
+.slider .slide * { 
+    white-space: normal; /* normalize the white-space... */
+} 
+
+
+
+.slide ul :first-child {
+    border-top:none;    
+}   
+.slide li {
+    padding: 10px 0; 
+    border-top:1px solid #e3e1e2;
+    list-style-type: none;
+}
+.slide li img {
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+    width:75px; 
+}
+.slide .list-item-thumb {
+
+}
+.slide .list-item-content {
+    margin-left: 80px;
+    font-style: normal;
+}
+
+.slide .vid-src-link {display:block;}
+
+/**
+ * But i could see .sponsored-story p being used a lot, may or may not need more specificity
+ */
+.slide .sponsored-story {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: inherit;
+    color: inherit;
+    margin-bottom: inherit;
+}
+
+.sponsored-story p {
+    font-family: "Droid Sans", sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    color: #467984;
+    line-height: 20px;
+    padding-bottom: 8px;
+}
+
+.slide .sponsored-story p {
+    margin-bottom: 0;
+}
+
+.slide .no-thumb {
+   /* background: url(img/list-icon.png) left 29px no-repeat; */
+    padding: 10px 0;
+}
+
+.slide p.pubSource {
+font-family: "Droid Sans", sans-serif; 
+font-weight: bold; 
+font-size: 10px; 
+color: #467984; 
+line-height: 20px;
+} 
+
+
+.slide .no-thumb.sponsored-story {
+    background: url(img/list-icon.png) left 48px no-repeat;
+}
+
+
+.slide .no-thumb.sponsored-story p {
+    line-height: 10px;
+}
+
+/**
+ * Treating the text-list slider in sidebar as basic/default
+ */
+.slider-container {
+    position: relative;
+}
+.slider-container .controls {
+    position:absolute;
+    /*display: inline-block;
+    float: right;*/
+    vertical-align: top;
+    right:0px;
+    top: 0px;
+}
+.slider-container .controls button {
+    display: inline-block;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e3e1e2;
+    width: 25px;
+    height: 25px;
+    white-space: nowrap;
+}
+.controls .next{
+    margin-left: -1px; /** to avoid double border **/
+}
+.controls .arrow {
+    width: 5px;
+    height: 9px;
+    display: inline-block;
+}
+.prev .arrow {
+    background: #fff url(img/carrousel-left-arrow.jpg) 0 0 no-repeat;
+/* If wanting to use non images
+border-bottom: 6px solid transparent;
+border-top: 6px solid transparent;
+border-right: 6px solid #999;
+display: inline-block;
+height: 0;
+vertical-align: top;
+width: 0;*/
+}
+.next .arrow {
+    background: #fff url(img/carrousel-right-arrow.jpg) 0 0 no-repeat;
+/* if wanting to use non images
+border-bottom: 6px solid transparent;
+border-top: 6px solid transparent;
+border-left: 6px solid #999;
+display: inline-block;
+height: 0;
+vertical-align: top;
+width: 0;*/
+}
+
+
+
+/**
+ * Media slide-show - same slider functionality, different display
+ */
+
+.slide .slideinfo {
+    z-index: 1;
+}
+.slide-show .controls button {
+    border: none;
+    height: 110px;
+    width: 44px;
+    position: absolute;
+    background-color: transparent;
+    /*top: 35%;*/ /* will be set dynamically */
+    background: 0 none;
+    z-index: 2;
+}
+.slide-show .next {
+    right: 0;
+    /*padding-right: 10px;*/
+    margin-right:2px;
+}
+.slide-show .prev {
+    /*left: 0;
+    padding-left: 10px;*/
+    margin-left:-5px;
+}
+.slide-show .prev .arrow {
+    background: transparent url(img/slideshow-prev.png) 0 0 no-repeat;
+    height: 110px;
+    width: 44px;    
+}
+.slide-show .next .arrow {
+    background: transparent url(img/slideshow-next.png) 0 0 no-repeat;
+    height: 110px;
+    width: 44px;
+}
+.slide-show h2 small.authors {
+    display:block; color:#333; font-size:12.5px;
+}
+.main-column-slideshow {
+    width:97%;
+}
+.main-column-slideshow .slider {
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #e3e1e2;;
+}
+.main-column-slideshow .controls {
+    position: relative;
+    vertical-align: top;
+    width: 100%;
+}
+
+article .main-column-slideshow .controls { position:absolute;height: 372px;overflow:hidden;}
+
+
+
+.main-column-slideshow .controls button {
+    display: inline-block;
+    position: absolute;
+    margin-top: 25%;
+    border:none;
+    width: 66px;
+    height:141px;
+    white-space: nowrap;
+    z-index:1;
+    outline:none;
+}
+
+article .controls button {
+    display: inline-block;
+    height: 141px;
+    margin-top: 27%;
+    outline: medium none;
+    position: relative;
+    white-space: nowrap;
+    width: 66px;
+    z-index: 1;
+}
+
+@media (max-width: 768px) {
+	article .slideinfo { position: relative;padding-top:1%;}
+	article .slideinfo p { font-size:12px;line-height:14px;padding: 0 2px 2%;}
+	article .main-column-slideshow .controls button { margin-top:18%;}
+	article .main-column-slideshow .controls .next .arrow, article .main-column-slideshow .controls .prev .arrow { background-size:35px 100px;}
+	article .main-column-slideshow .controls { height: 100%;}
+}
+
+@media (min-width: 768px) and (max-width:1060px){
+	article .slideinfo { bottom: 7% !important;}
+	article .slideinfo p { font-size:12px;line-height:14px;padding: 0 2px 1.5%;}
+	article .main-column-slideshow .controls .next .arrow, article .main-column-slideshow .controls .prev .arrow { background-size:30px 65px;}
+	article .main-column-slideshow .controls button { margin-top:18%;}
+	article .main-column-slideshow .controls .next .arrow { background-position: 30px center;}
+
+}
+
+@media (min-width: 320px) and (max-width:600px){
+	article .main-column-slideshow .controls .next .arrow, article .main-column-slideshow .controls .prev .arrow { background-size: 30px 65px;}
+	article .main-column-slideshow .controls .next .arrow { background-position: 30px center;}
+}
+
+.main-column-slideshow .controls .arrow {
+    width: 66px;
+    height:141px;
+}
+.main-column-slideshow .controls .prev .arrow {
+    background:transparent url(img/slideshow-prev.png) left center no-repeat;
+}
+.main-column-slideshow .controls .next .arrow {
+    background:transparent url(img/slideshow-next.png) 18px center no-repeat;
+}
+.main-column-slideshow .itembg {
+    position: relative;
+}
+.main-column-slideshow .slide li {
+    padding:0
+}
+.main-column-slideshow .itembg img {
+    margin:0 auto;
+}
+.main-column-slideshow .itembg .slideinfo { 
+    bottom: 0;
+}
+
+/* book-center: today's featured books slider (book-list-carousel) */
+.book-list-carousel {
+    margin-bottom:20px;
+    min-height:400px;
+}
+.book-list-carousel h2 {
+    font-family: "Droid Sans", sans-serif;
+    font-size: 26px;
+    line-height: 58px;
+    color: #3e383a;
+    background-color: #f6f6f6;
+    border-top: 1px solid #b5b5b5;
+    border-bottom: 1px solid #b5b5b5;
+    display: block;
+    margin: 5px 0 20px 0;
+    padding-left: 2%;
+}
+
+.book-list-carousel .controls {
+    position: relative;
+    vertical-align: top;
+    width: 100%;
+    top:12% !important;
+}
+
+.book-list-carousel .controls button {
+    display: inline-block; 
+    background-color: transparent;
+    padding:0;
+    margin-top: 70px;
+    border:none;
+    width: 66px;
+    height:141px;
+    white-space: nowrap;
+}
+
+.book-list-carousel .controls .arrow {
+    width: 66px;
+    height:141px;
+}
+.book-list-carousel .controls .prev, .main-column-slideshow .controls .prev {
+    left:0;
+}
+.book-list-carousel .controls .next, .main-column-slideshow .controls .next {
+    right:0;
+}
+.book-list-carousel .controls .prev .arrow {
+    background:url(img/arrow-carousel-right.png) left 0 no-repeat transparent;
+}
+
+.book-list-carousel .controls .next .arrow {
+    background:url(img/arrow-carousel-left.png) -6px 0 no-repeat transparent;
+}
+
+.book-list-carousel .slide ul {
+    margin: 0 6.5%;
+}
+
+.book-list-carousel .slider li {
+    padding-bottom:0;
+    padding-top:0;
+}
+
+.book-list-carousel .slider li .span7 {width:65%}
+
+.book-list-carousel .slider li h3 {
+    font-size: 27px;
+    line-height: 34px;
+    }
+    
+.book-list-carousel .slider li h3 a {
+    color: #3e383a;
+}
+
+.book-list-carousel .slider li .author {
+    font-size: 16px;
+    line-height: 34px;
+    border-bottom: 1px solid #b5b5b5;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.book-list-carousel .slider li p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.book-list-carousel .slider .learn-more {
+    font-size: 11px;
+    line-height: 32px;
+    background: #467984;
+    color: #fff;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.book-list-carousel .slider img {
+    margin:0; 
+    float:none;
+    max-width: 226px;
+    height: auto;
+}
+
+/* Book Center Library */
+.book-center-table .header, .book-center-table .tablesorter-header {
+background-image: url(img/unsorted.png);
+background-repeat: no-repeat;
+background-position: center left;
+padding: 4px 4px 4px 12px;
+white-space: normal;
+cursor: pointer;
+}
+.tablesorter-header-inner {
+    color: #467984;
+}
+.book-center-table thead .sorter-false {
+    background-image: none;
+    padding-left:0;
+}
+.book-center-table thead .sorter-false .tablesorter-header-inner {
+    padding: 4px 4px 4px 0;
+    color:#3e383a;
+}
+.book-center-table .arrow-bottom {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 4px 3.5px 0 3.5px;
+    border-color: #a7a7a7 transparent transparent transparent;
+    display: inline-block;
+    margin-right: 5px;
+}
+.book-center-table .tablesorter-headerAsc {
+    background-image: url(img/asc.png);
+}
+.book-center-table .tablesorter-headerDesc {
+    background-image: url(img/desc.png);
+}
+.book-center-table td .bookCoverThumb {
+    display:block;
+    height:96px;
+    width:69px;
+    background: url(img/icon-book-cover-bg.jpg) 0 0 no-repeat transparent;
+}
+.book-center-table .even td .bookCoverThumb {
+    background: url(img/icon-book-cover-bg-red.jpg) 0 0 no-repeat transparent;
+}
+.book-center-table td img {
+max-width: 100% !important;
+width: 129px !important;
+}
+
+/**
+ * Article
+ */
+.get-news-div {
+    font: 11px/20px "Droid Sans", sans-serif;
+    margin-bottom: 55px;
+}
+
+/**
+ * paddings
+ */
+.top-padding-5 {
+    padding-top:5px;
+}
+.top-padding-10 {
+    padding-top:10px;
+}
+.top-padding-15 {
+    padding-top:15px;
+}
+.top-padding-20 {
+    padding-top:20px;
+}
+.top-padding-25 {
+    padding-top:25px;
+}
+.top-padding-30 {
+    padding-top:30px;
+}
+.top-padding-40 {
+    padding-top:40px;
+}
+
+/**
+ * hubpage 2-column content - add spacing and border to replace <hr> between items
+ */
+.half-width-container-row-wrapper .half-width-container {
+    width: 47.5% !important; /*merge this into style.css*/
+}
+.half-width-container-row-wrapper .half-width-container.left-container {
+    padding-right: 2.5% !important; /*merge these into style.css*/
+    margin-right: 2.5% !important;
+}
+.half-width-container-row-wrapper .half-width-container.general-list { 
+    /*after removing the <br>s, the 2 columns needs a height to stay even.
+     style.css set for min-height: 400px;, not enough to make the right border touching the bottom sometimes,
+     adding class "general-list" and apply this: */
+    min-height:93%;
+}
+.half-width-container-row-wrapper .half-width-container.general-list h2 {
+    padding: 0 0 20px;
+}
+.half-width-container-row-wrapper .half-width-container.general-list p {
+    padding: 20px 0;
+    border-top: 1px solid #E3E1E2;
+    margin-right: 3%;
+}
+.half-width-container-row-wrapper .half-width-container.general-list p:last-of-type {
+    padding-bottom:0;
+}
+
+
+/**
+ * hub module - hub-no-nav, hub-side-nav
+ */
+.hub-module {
+    border-bottom: 1px solid #E3E1E2;
+    clear: both;
+}
+
+.hub-right {
+    max-width:57%
+} 
+/*this is diffrerent from style.css because es added "box-sizing: border-box" style to div which afffects the width of this div.
+ This needs to merge into style.css in order to take effect*/
+
+/**
+ * Autcomplete Styles
+ */
+.tt-dropdown-menu {
+    background-color: #fff;
+    width: 95%;
+    border: 1px solid #ccc;
+    
+}
+.tt-suggestion.tt-is-under-cursor {
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion {
+    padding: 5px;
+}
+.tt-suggestion p {
+    line-height: 100%;
+}
+.twitter-typeahead .tt-hint {
+    color:#999;
+}
+.twitter-typeahead .tt-query {
+  color: #000;
+}
+
+/* subcategory */
+/*.main-wrapper .span12 {
+ margin-left:0;
+}*/
+
+
+/**
+ * search styles
+ */
+/*
+changing this to a button would probably clear up problems
+inputs need content-box box sizing, which creates issues with widths/paddings
+this superceeds .filter-form .filter-by-date
+ */
+.filter-results .filter-form .filter-by-date {
+    display: block;
+    width: 100%;
+    float: none;
+}
+.result-item .highlight {
+    font-weight: bold;
+}
+
+.search-criteria .submit-bt {
+    margin-right: 0;
+}
+/*Style override - update .search-manage-alerts class in style.css */
+.main-wrapper h2.search-criteria {
+    display: inline-block;
+    vertical-align: middle;
+}
+.main-wrapper .search-manage-alerts {
+    vertical-align: text-top;
+    display: inline-block;
+    position: relative;
+    top: auto;
+    right: auto;
+    margin-left: 40px;
+}
+
+.search-manage-alerts .createAlert {
+    vertical-align: middle;
+}
+/*.createAlert.briefcase-anchor-search {
+    background:transparent url(img/createAlertButton.jpg) 0 0 no-repeat;
+    display: inline-block;
+    width:170px;
+    height:39px;
+}*/
+
+.search-manage-alerts .briefcase-popover {
+    display: block;
+    left: -145px !important;
+    top: 35px;
+
+}
+
+.search-manage-alerts input[type="text"].small {
+    width: 27%;
+}
+
+.search-manage-alerts select.small {
+    width: 27%;
+}
+
+.search-manage-alerts .title-bar .title {
+    width: 85%;
+}
+
+/**
+ * court search
+ */
+fieldset {
+    position: relative;
+}
+fieldset.selected-section {
+    background-color: transparent!important;/*original important set in style.css line 442*/
+}
+/*same styles as in style.css line 6079*/
+/*targeting a different form element */
+.search-box fieldset {
+margin-right: 5px;
+display: inline-block;
+zoom: 1;
+width: 10em;
+}
+
+.search-box.no-style {
+background: none repeat scroll 0 0;
+border: none;
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+#courtsSearchForm fieldset,
+#publicNoticesform fieldset,
+fieldset.classified-atexclass {
+    width: 10em;
+    top: -3px;
+}
+.search-box fieldset.classified-atexclass{
+    margin-right: 5px;
+    display: inline-block;
+    width: 13em;
+    
+}
+
+#publicNoticesform .popover label {
+    display: block;
+}
+.search-box .count {
+    font-size: 90%;
+    color: #ccc;
+}
+.input-style {
+    display: block;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -o-transition: border linear 0.2s, box-shadow linear 0.2s;
+    transition: border linear 0.2s, box-shadow linear 0.2s;
+    height: 28px;
+    padding: 4px 6px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #555555;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    behavior: url(/static/css/PIE.htc);
+    vertical-align: middle;
+
+}
+.input-style:hover {
+    text-decoration: none;
+}
+.input-style .caret {
+    /*vertical-align: middle;*/
+    float: right;
+    top:7px;
+    right:4px;
+    position: relative;
+}
+
+.search-box .popover-large {
+    max-width: 700px;/*over-rides bootstrap max-width .popover property*/
+    width: 700px;
+    top: 30px;
+    padding:10px;
+  
+}
+.popover-large .close {
+font-size: 20px;
+display: block;
+text-align: right;
+width: auto;
+color:#333;
+opacity: 1;
+float: none;
+}
+/********************************************************************/
+/************************* New Search Template **********************/
+.filter-class a, .filter-class .disabled {
+font-family: "Droid Sans", sans-serif;
+font-size: 13px;
+line-height: 18px;
+color: #211e1f;
+}
+.filter-class .disabled {
+    color: #999;
+}
+
+#searchBoxTop .search-criteria {
+    padding-top: 0;
+    padding-bottom: 60px;
+}
+#searchBoxTop .twitter-typeahead {
+    vertical-align: top;
+    width:33.6%;
+    margin: 0 5px 0 0px;
+}
+.newSearch .filter-results{
+    background-color: #f6f6f6;
+    margin: 20px 0;
+}
+#searchBoxTop {
+	border: 1px solid #C0C0C0;
+    margin-top: 20px;
+    padding: 0 10px;
+}
+#searchBoxTop h2.search-criteria {
+    margin: 0px 5px 0px 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+}
+form[name="frmSearch"] #keyword {
+    width:95%;
+}
+.lt-ie9 form[name="frmSearch"] #keyword {
+    width:150px
+}
+form[name="frmSearch"] .submit-bt {
+    margin:2px 0 0 0 !important;
+    vertical-align:top; 
+}
+#searchBoxTop .search-criteria input, #searchBoxTop select {
+    margin-right: 3px;
+}
+#searchModifiers {
+    margin: 10px 0 20px 0px;
+    display: block;
+}
+#searchModifiers li {
+    display:inline-block; 
+    float:left; 
+    font-size:12px; 
+    margin:0 0 0 10px
+}
+/*.filtersHead a[data-removefilter="publication-name"] {color:red;}*/
+.filtersHead a[data-removefilter] {
+    background:url(img/removeFilter.jpg) 0 1px no-repeat transparent;
+    padding-left:16px;
+    }
+#searchModifiers li:first-child {
+    margin:0
+}
+#searchModifiers .filtersHeadClear {
+    float: right!important;
+    margin-right: 130px;
+}
+#searchBoxTop .search-manage-alerts {
+    position: absolute;
+    right: 0%;
+    margin: -10px 0 0;
+}
+#searchBoxTop .clearFilter {
+    clear:both; 
+    display:block
+}
+#searchBoxTop .search-manage-alerts * {
+    margin:0;
+}
+#searchBoxTop .createAlert.briefcase-anchor-search {
+    background-image:none; 
+    width:auto; height:auto;
+}
+#searchBoxTop .share-serach {
+    display: inline-block;
+}
+#ui-datepicker-div {
+    z-index:3 !important;
+}
+/*********************** End New Search Template ********************/
+/********************************************************************/
+
+
+/**
+ * Clearfix
+ * instead of adding clearfix to all elements, or <br class="clear"> or div class="clear",
+ * we can chain items that need float clearing here.
+ * This is where LESS would be real handy, we could just fall this as a mixin
+ */
+
+.hub-module,
+.hub-header,
+.clearfix,
+.thumbnail-list li {
+  *zoom: 1;
+}
+.hub-module:before,
+.hub-module:after,
+.hub-header:before,
+.hub-header:after,
+.clearfix:before,
+.clearfix:after, 
+.thumbnail-list li:before,
+.thumbnail-list li:after {
+    display: table;
+    content: "";
+    /* Fixes Opera/contenteditable bug:
+    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952*/
+    line-height: 0;
+}
+.hub-module:after,
+.hub-header:after,
+.clearfix:after,
+.thumbnail-list li:after {
+   clear: both;
+}
+
+
+/** Video */
+/*.main-wrapper.row {margin-left:0;} This cause issue in subcategory page */
+.video-title-div {
+    margin-left:0;
+}
+.video-bg-wrap {
+    clear:left;
+}
+
+
+
+/** Welcome Wall using Subscribe Content **/
+.modal-wrapper .subscribePackage {
+    padding-bottom: 0px;
+    font-size: 20px;
+    margin: 10px 0 0 0;
+}
+.modal-wrapper .subscribe-menu-wrapper {
+    padding-left: 4%;
+    padding-top: 5px;
+}
+.modal-wrapper .subscribe-menu-wrapper .right-column {
+    width: 45%;
+    padding-left: 4%;
+    padding-bottom: 5%;
+}
+.modal-wrapper .subscribe-menu-wrapper .left-column {
+    width: 45%;
+    margin-right: 4%;
+}
+.modal-wrapper .subscribe-menu-wrapper ul {
+    list-style-type: disc;
+}
+.modal-wrapper .subscribe-menu-wrapper ul li {
+    padding-left: 5%;
+    font-size: 13px;
+    line-height: 23px;
+}
+
+
+/* basic article */
+.basic-figure {
+    margin-right:-2%; 
+    margin-left:0; 
+}
+/*.basic-figure img {
+ margin-top:-2%;
+}*/
+.article-parts {
+    /*remove: width:99%;*/ 
+    /*Change these:*/
+    margin-left:2%; margin-right:2%;
+} /*this needs to replace that in style.css*/
+.article-links {
+    margin-right:2%;
+    margin-left:2%; /*added it back*/
+} /*new style, margin-left:2%; */
+
+
+/* blog-template */
+.content-div > .blogger-div {
+    height: 158px;
+    margin-right:4%;
+}
+.article-links p {
+    margin-top:30px;
+}
+
+/* magazine */
+.article-text.noTopPadding, .noTopPadding {
+    margin-top:0 !important;
+}
+
+/* Reviews */
+.ui-tabs .ui-tabs-nav li a {
+    height:22px !important
+} 
+.article-text .blogger-div {
+    margin-right:0.5%;
+}
+
+
+
+
+
+/* IE8 */
+.lt-ie9 ul.main-nav-left {
+    width:50% !important; /*remove this style from style.css, use the standard width for all browsers*/
+}
+.lt-ie9 ul.main-nav-right {
+    width:37% !important; /*remove this style from style.css, use the standard width for all browsers*/
+    margin-right:-13px;
+}
+.lt-ie9 .welcome-wall-overlay {
+    width: 900px !important; 
+    margin-left: -70px !important;
+}
+.lt-ie9 .my-account-div ul li a {
+    font-size:11px;
+}
+.lt-ie9 .filter-form .datepicker-wrapper {
+    z-index:1;
+}
+.lt-ie9 .filter-form input {
+    width: 166px; 
+}
+
+.lt-ie9 .signup-box input[type='text'] {
+     width: 63%;
+}
+.lt-ie9 .signup-box .submit-bt {
+     position: absolute; 
+     padding-bottom: 8px; 
+     padding-top: 8px; 
+     padding-left: 8px; 
+     padding-right: 8px;
+}
+
+
+/* footer: These styles need to be merged into style.css */
+.bottom-footer-section span {
+    padding-right:30px !important
+} /*footer log is partially hidden because box is too narrow. */
