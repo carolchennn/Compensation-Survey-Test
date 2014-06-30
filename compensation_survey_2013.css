@@ -32,7 +32,7 @@
 #compensation_survey-line { /*position:absolute; top:441px; left:582px; width:5px; height:20px; border-right:1px solid #D3CCA7;*/ display: none; }
 
 /******************* start table sort *************************/
-.header { background-image: url("/image/cc/compensation_survey/table_arrow.gif"); background-position: right center; background-repeat: no-repeat; cursor: pointer; }
+.header { background-image: url("http://www.corpcounsel.com/image/cc/compensation_survey/table_arrow.gif"); background-position: right center; background-repeat: no-repeat; cursor: pointer; }
 #compensation_survey-nav table > tbody tr { cursor:pointer; }
 /******************* end table sort *************************/
 
