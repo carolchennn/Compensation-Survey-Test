@@ -18,10 +18,10 @@
 #compensation_survey-box2 { background-color:#F1EBC7; border:1px solid #D3CCA7; color:#333; }
 #compensation_survey-box3 { background-color:#ddddc9; border:1px solid #c5c5af; }
 #compensation_survey-box4 { background-color:#F1EBC7; border:1px solid #D3CCA7; margin-top:20px; padding:11px 10px 9px 78px; text-align:center; }
-.compensation_survey-box { width:145px; height:135px; margin-right:63px; padding:0 10px 20px; }
-.compensation_survey-box_title { font-size:10pt; color:#333; font-weight:bold; text-align:center; line-height: 17px;}
+.compensation_survey-box { width:145px; height:124px; margin-right:63px; padding:0 10px 20px; }
+.compensation_survey-box_title { font-size:9pt; color:#333; font-weight:bold; text-align:center; line-height: 17px;}
 
-#compensation_survey-total_cash { font-size:10pt; font-weight:bold; margin-left:18px; text-align: left!important; float: none!important;}
+#compensation_survey-total_cash { font-size:12pt; font-weight:bold; margin-left:8px; text-align: left!important; float: none!important;}
 #compensation_survey-stock_options-title { margin-top:20px; }
 #compensation_survey-stock_options { font-size:12pt; font-weight:bold; border-top:1px dotted #333; padding-top:5px; margin-top:5px; text-align:center; }
 #compensation_survey-take_home-title { margin-top:36px; }
