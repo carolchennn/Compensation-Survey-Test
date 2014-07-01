@@ -50,7 +50,7 @@ table.tablescroll_head{margin:0!important;}
 th.header1 {width:60px!important;}
 th.header2 {width:206px!important;}
 .compensation_survey-box table{margin:0; border:none;}
-.compensation_survey-box table td{ text-align: right!important;}  /****padding:0!important;  border: none !imporntant ******/
+.compensation_survey-box table td{ text-align: left!important;}  /****padding:0!important;  border: none !imporntant ******/
 .compensation_survey-box table tr:nth-child(even) td {background:none!important;}
 #compensation_survey-note{display:block; width:100%; clear:both; line-height: 15px;}
 
