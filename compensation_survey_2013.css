@@ -31,7 +31,7 @@
 #compensation_survey-plus { position:absolute; top:385px; left:464px; }
 #compensation_survey-equal { position:absolute; top:385px; left:672px; }
 #compensation_survey-line { /*position:absolute; top:441px; left:582px; width:5px; height:20px; border-right:1px solid #D3CCA7;*/ display: none; }
-#compensation_survey-stock_awards, #compensation_survey-option_awards { font-size:10pt;}
+#compensation_survey-stock_awards, #compensation_survey-option_awards { font-size:12pt;font-weight:bold;}
 /******************* start table sort *************************/
 .header { background-image: url("http://www.corpcounsel.com/image/cc/compensation_survey/table_arrow.gif"); background-position: right center; background-repeat: no-repeat; cursor: pointer; }
 #compensation_survey-nav table > tbody tr { cursor:pointer; }
