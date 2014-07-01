@@ -80,10 +80,10 @@ function buildNav(){
 	});
 };
 
-$(function initNav(){
+function initNav(){
 	var background_color;
 	
-	$("#myTable").tablesorter();
+	$('table.tablesorter').tablesorter();
 	$('table.tablesorter').tableScroll({height:299});
 	
 	$("table.tablesorter").bind("sortStart",function() {
@@ -119,7 +119,7 @@ $(function initNav(){
 	$('#compensation_survey-link').click(function(){
 		window.location = '/id=1202635302295';
 	});
-});
+};
 
 function loadData(company){
 	var general_counsel;
