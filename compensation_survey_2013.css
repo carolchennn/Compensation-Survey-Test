@@ -42,7 +42,7 @@
 .floatR { float:right; }
 .clear { clear:both; }
 
-td.compensation_survey-nav-rank{width:20px!important; padding: 10px 0 5px 10px!important; text-align: left!important; margin:0!important;}
+td.compensation_survey-nav-rank{width:20px!important; padding: 10px 0 5px 10px!important; text-align: center!important; margin:0!important;}
 td.compensation_survey-nav-company{white-space: pre-wrap!important; line-height: 16px; padding: 10px!important; width:100px!important;}
 table.tablescroll_body{width: 250px; margin: 0!important;}
 .tablescroll_wrapper.mCustomScrollbar._mCS_11{width:266px!important;}
