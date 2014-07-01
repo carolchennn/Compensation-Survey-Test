@@ -2,7 +2,7 @@
 /*#chartpage h2 { display:none !important; }*/
 #chartIA .footnote, #chartbody .footnote { font-size:9pt !important; line-height:13pt !important; width:900px !important; }
 
-#compensation_survey-container { width:900px; height:auto; text-align:left; font-family:helvetica, arial; font-size:9pt; color:#333; position:relative; background-color:#f2f3eb; }
+#compensation_survey-container { width:900px; height:auto; text-align:left; font-family:helvetica, arial, sans-serif; font-size:9pt; color:#333; position:relative; background-color:#f2f3eb; }
 
 #compensation_survey-masthead { margin-bottom:15px; }
 
