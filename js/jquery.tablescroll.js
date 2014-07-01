@@ -185,4 +185,4 @@ OTHER DEALINGS IN THE SOFTWARE.
 		containerClass: 'tablescroll' // the plugin wraps the table in a div with this css class
 	};
 
-});
+})(jQuery);
