@@ -23,7 +23,7 @@
 
 #compensation_survey-total_cash { font-size:12pt; font-weight:bold; margin-left:5px; text-align: left!important; float: none!important;}
 #compensation_survey-total-cash-total {font-weight:bold; }
-#compensation_survey-stock_options-title { margin-top:20px; margin-bottom:20px; }
+#compensation_survey-stock_options-title { margin-top:20px; }
 #compensation_survey-stock_options { font-size:12pt; font-weight:bold; border-top:1px dotted #333; padding-top:5px; margin-top:3px; text-align:center; }
 #compensation_survey-take_home-title { margin-top:36px; }
 #compensation_survey-take_home { font-size:12pt; font-weight:bold; border-top:1px dotted #333; padding-top:5px; margin-top:5px; text-align:center; }
